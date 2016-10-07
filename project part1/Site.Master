@@ -13,7 +13,6 @@
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Content/font-awesome.min.css" rel="stylesheet" />
     <link href="Content/app.css" rel="stylesheet" />
-    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 </head>
 <body>
     <form id="form1" runat="server">
@@ -57,7 +56,7 @@
     <!-- Footer -->
     <nav class="navbar navbar-default navbar-floating-bottom">
         <div class="container">
-            <h4>&copy; 2016 - Assignment Portfolio site Student # 300852792 - All Rights Reserved</h4>
+            <h4>&copy; 2016 - Game tracker Project Student # 300852792 - All Rights Reserved</h4>
         </div>
     </nav>
 
